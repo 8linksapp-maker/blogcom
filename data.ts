@@ -53,6 +53,23 @@ export const posts: Post[] = [
     author: 'Roberto Da silva',
     date: '2024-01-20',
     image: 'https://picsum.photos/800/400?random=4'
+  },
+  {
+    id: '5',
+    slug: 'o-futuro-da-ia-generativa5',
+    title: 'O Futuro da IA Generativa no Desenvolvimento5',
+    excerpt: 'Como as ferramentas de IA estão transformando a produtividade dos desenvolvedores e o que esperar para os próximos anos.',
+    content: `
+      <h2>A Revolução da IA no Código</h2>
+      <p>A inteligência artificial generativa tem mudado radicalmente a forma como escrevemos software. Ferramentas como o Copilot e o ChatGPT não são apenas assistentes, mas parceiros de pair programming.</p>
+      <br>
+      <h3>Impacto na Produtividade</h3>
+      <p>Estudos mostram que desenvolvedores que utilizam IA conseguem concluir tarefas até 55% mais rápido. Isso permite que o foco saia da sintaxe repetitiva para a arquitetura e solução de problemas complexos.</p>
+    `,
+    category: 'Inteligencia Artificial',
+    author: 'Roberto Da silva',
+    date: '2023-10-25',
+    image: 'https://picsum.photos/800/400?random=1'
   }
 ];
 
