@@ -46,7 +46,7 @@ export const posts: Post[] = [
   {
     id: '4',
     slug: 'tendencias-web-2024',
-    title: 'Tendências de Desenvolvimento Web para 2024',
+    title: 'Tendências de Desenvolvimento Web para 2026',
     excerpt: 'O que esperar do ecossistema JavaScript e das novas APIs da plataforma web.',
     content: '<p>O ecossistema web continua evoluindo em um ritmo acelerado...</p>',
     category: 'Tecnologia',
